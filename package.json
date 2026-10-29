@@ -1,0 +1,12 @@
+{
+  "name": "mock-vulnerable-repo",
+  "version": "1.0.0",
+  "description": "Mock Polyglot Web Application for Lucid-CI Security Verification",
+  "main": "server/routes/vulnerable_routes.js",
+  "scripts": {
+    "start": "node server/routes/vulnerable_routes.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
